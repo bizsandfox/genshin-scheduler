@@ -1,0 +1,738 @@
+{
+  "list": [
+    {
+      "item_id": 10000093,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0da15191b6ab4ed59a03e950e88f784c.png",
+      "attr": 2,
+      "level": 5,
+      "labels": [6],
+      "name": "한운"
+    },
+    {
+      "item_id": 10000092,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/29e5486c06a2bb130d7d97e66e60bb73.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [4],
+      "name": "가명"
+    },
+    {
+      "item_id": 10000073,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/99e73b84df09a2a67b2a7f86ee0a0ec4.png",
+      "attr": 4,
+      "level": 5,
+      "labels": [11],
+      "name": "나히다"
+    },
+    {
+      "item_id": 10000026,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0df86e06756ac62e5dcb6dcd5b733370.png",
+      "attr": 2,
+      "level": 5,
+      "labels": [4],
+      "name": "소"
+    },
+    {
+      "item_id": 10000058,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f2a963071ab4089ce91a0076b1cf921b.png",
+      "attr": 5,
+      "level": 5,
+      "labels": [9],
+      "name": "야에 미코"
+    },
+    {
+      "item_id": 10000091,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5e31211b988d8c01a07c3eb09a79d5a2.png",
+      "attr": 3,
+      "level": 5,
+      "labels": [13],
+      "name": "나비아"
+    },
+    {
+      "item_id": 10000002,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/3eaa40af37fd729047f7a810baf9d58f.png",
+      "attr": 7,
+      "level": 5,
+      "labels": [8],
+      "name": "카미사토 아야카"
+    },
+    {
+      "item_id": 10000052,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5fa702eaa527f3bbc81400cb8f8dbe30.png",
+      "attr": 5,
+      "level": 5,
+      "labels": [9],
+      "name": "라이덴 쇼군"
+    },
+    {
+      "item_id": 10000049,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5a12836a59ea2b4b1e4752e81741fbb8.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [7],
+      "name": "요이미야"
+    },
+    {
+      "item_id": 10000090,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/8cbaf1b000db247e384f5c8979619724.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [15],
+      "name": "슈브르즈"
+    },
+    {
+      "item_id": 10000071,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad1ff176fa8586900679a03823627a1f.png",
+      "attr": 5,
+      "level": 5,
+      "labels": [10],
+      "name": "사이노"
+    },
+    {
+      "item_id": 10000066,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/6daed617edefc9263967041d618ce8da.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [8],
+      "name": "카미사토 아야토"
+    },
+    {
+      "item_id": 10000089,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0ad6a10b5d6b0a823c4048fc7cd734e7.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [14],
+      "name": "푸리나"
+    },
+    {
+      "item_id": 10000088,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5fb6224bb9ed0524101559c224e005f8.png",
+      "attr": 7,
+      "level": 4,
+      "labels": [14],
+      "name": "샤를로트"
+    },
+    {
+      "item_id": 10000086,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/416beceb1fd47db698c93a744e4d0f0d.png",
+      "attr": 7,
+      "level": 5,
+      "labels": [15],
+      "name": "라이오슬리"
+    },
+    {
+      "item_id": 10000087,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c5a6de61f2099907ac403befc59d6636.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [13],
+      "name": "느비예트"
+    },
+    {
+      "item_id": 10000030,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/029d5643af8f0b0cfb101b831224bd61.png",
+      "attr": 3,
+      "level": 5,
+      "labels": [6],
+      "name": "종려"
+    },
+    {
+      "item_id": 10000033,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/62526a7c6ae383b4ae9d5d3969e66cff.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [1],
+      "name": "타르탈리아"
+    },
+    {
+      "item_id": 10000085,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ce8c1cfe3ade451fb5bddb50e9253e08.png",
+      "attr": 7,
+      "level": 4,
+      "labels": [14],
+      "name": "프레미네"
+    },
+    {
+      "item_id": 10000084,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/cbe26f5eee54c76164252434b185dea6.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [13],
+      "name": "리니"
+    },
+    {
+      "item_id": 10000060,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e379019894dda29acc5fb6abfda4f815.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [4],
+      "name": "야란"
+    },
+    {
+      "item_id": 10000083,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7341da3f51143384b08fdeebae5365b6.png",
+      "attr": 2,
+      "level": 4,
+      "labels": [15],
+      "name": "리넷"
+    },
+    {
+      "item_id": 10000051,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad2e6fd1fee79277e695cfb7c24f6028.png",
+      "attr": 7,
+      "level": 5,
+      "labels": [2],
+      "name": "유라"
+    },
+    {
+      "item_id": 10000029,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/400007ee65697a6e149986bd5866b9f1.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [1],
+      "name": "클레"
+    },
+    {
+      "item_id": 10000075,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e105894f19ace4f44f7dcfb713acad9b.png",
+      "attr": 2,
+      "level": 5,
+      "labels": [12],
+      "name": "방랑자"
+    },
+    {
+      "item_id": 10000054,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/09475bfeb4ca3ae615756ef7b3ef0a50.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [7],
+      "name": "산고노미야 코코미"
+    },
+    {
+      "item_id": 10000047,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b66dfb67c1371dab01c79c8f49b435b5.png",
+      "attr": 2,
+      "level": 5,
+      "labels": [5],
+      "name": "카에데하라 카즈하"
+    },
+    {
+      "item_id": 10000078,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/17acc7eaf081f6004e7d2747f93c1b63.png",
+      "attr": 4,
+      "level": 5,
+      "labels": [11],
+      "name": "알하이탐"
+    },
+    {
+      "item_id": 10000061,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1cb3d7d4d65741943bbfd3eccffa36b4.png",
+      "attr": 4,
+      "level": 4,
+      "labels": [7],
+      "name": "키라라"
+    },
+    {
+      "item_id": 10000082,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/9032a7c06307f7ca50d160a0507ad651.png",
+      "attr": 4,
+      "level": 5,
+      "labels": [6],
+      "name": "백출"
+    },
+    {
+      "item_id": 10000081,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/2330b14769f843c50b869da0b22ef260.png",
+      "attr": 4,
+      "level": 4,
+      "labels": [11],
+      "name": "카베"
+    },
+    {
+      "item_id": 10000070,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5075ed07a231b981c8865b6766365304.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [12],
+      "name": "닐루"
+    },
+    {
+      "item_id": 10000063,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0512be27f9b5ed90f41ca4cc644b7da7.png",
+      "attr": 7,
+      "level": 5,
+      "labels": [4],
+      "name": "신학"
+    },
+    {
+      "item_id": 10000080,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad4be577444a41051955f34310744c9c.png",
+      "attr": 7,
+      "level": 4,
+      "labels": [3],
+      "name": "미카"
+    },
+    {
+      "item_id": 10000079,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7d1d3025ea6ef82d8da302d5aa972c10.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [12],
+      "name": "데히야"
+    },
+    {
+      "item_id": 10000046,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/30a64e1c93f6de2e298158228b438f13.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [5],
+      "name": "호두"
+    },
+    {
+      "item_id": 10000077,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/794e9009c2984a3d569d2690c2da1866.png",
+      "attr": 4,
+      "level": 4,
+      "labels": [5],
+      "name": "요요"
+    },
+    {
+      "item_id": 10000076,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/10ae4ff19a542115b41e5a94678a5777.png",
+      "attr": 2,
+      "level": 4,
+      "labels": [10],
+      "name": "파루잔"
+    },
+    {
+      "item_id": 10000074,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5c9faf073e9703c61acf9f6777c47b73.png",
+      "attr": 7,
+      "level": 4,
+      "labels": [11],
+      "name": "레일라"
+    },
+    {
+      "item_id": 10000072,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c9d510788a4db389817843334d14f18d.png",
+      "attr": 6,
+      "level": 4,
+      "labels": [10],
+      "name": "캔디스"
+    },
+    {
+      "item_id": 10000022,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/906205447735c40f3d55dd093da14f66.png",
+      "attr": 2,
+      "level": 5,
+      "labels": [3],
+      "name": "벤티"
+    },
+    {
+      "item_id": 10000037,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f46084df1bc2699920c7b68d5e69547d.png",
+      "attr": 7,
+      "level": 5,
+      "labels": [5],
+      "name": "감우"
+    },
+    {
+      "item_id": 10000068,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/d67b40071c18495cff3a46bfbf9d61f1.png",
+      "attr": 5,
+      "level": 4,
+      "labels": [11],
+      "name": "도리"
+    },
+    {
+      "item_id": 10000069,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/6f6e38f3cd46ceb1d5d2b05877c5e5ce.png",
+      "attr": 4,
+      "level": 5,
+      "labels": [10],
+      "name": "타이나리"
+    },
+    {
+      "item_id": 10000067,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4da2bceaecdc6b95db44e00cfad2daf2.png",
+      "attr": 4,
+      "level": 4,
+      "labels": [12],
+      "name": "콜레이"
+    },
+    {
+      "item_id": 10000057,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7a9f1305f86909087b8e706da2a50c30.png",
+      "attr": 3,
+      "level": 5,
+      "labels": [8],
+      "name": "아라타키 이토"
+    },
+    {
+      "item_id": 10000042,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/eb4c6449bf2467c4cad3bdeaac921e7e.png",
+      "attr": 5,
+      "level": 5,
+      "labels": [4],
+      "name": "각청"
+    },
+    {
+      "item_id": 10000016,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ea056dcab267a0ba18162adeb3d27888.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [2],
+      "name": "다이루크"
+    },
+    {
+      "item_id": 10000041,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c9c2f095772abe102792fc184672d5e2.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [2],
+      "name": "모나"
+    },
+    {
+      "item_id": 10000035,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/21b3d764a7ae4f4feef7188ca0bd91cb.png",
+      "attr": 7,
+      "level": 5,
+      "labels": [4],
+      "name": "치치"
+    },
+    {
+      "item_id": 10000062,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ca33283232399623a006774f802743c3.png",
+      "attr": 7,
+      "level": 5,
+      "labels": [1],
+      "name": "에일로이"
+    },
+    {
+      "item_id": 10000003,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/2a70468b694ce53008386fe9987c7e83.png",
+      "attr": 2,
+      "level": 5,
+      "labels": [2],
+      "name": "진"
+    },
+    {
+      "item_id": 10000038,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c986161451c863492e16196e24b94660.png",
+      "attr": 3,
+      "level": 5,
+      "labels": [3],
+      "name": "알베도"
+    },
+    {
+      "item_id": 10000005,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/7c0b9ec9dac9c3b75204bdebef3cb794_2944685681902482559.png",
+      "attr": 2,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000005,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/7c0b9ec9dac9c3b75204bdebef3cb794_2944685681902482559.png",
+      "attr": 3,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000005,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/7c0b9ec9dac9c3b75204bdebef3cb794_2944685681902482559.png",
+      "attr": 5,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000005,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/7c0b9ec9dac9c3b75204bdebef3cb794_2944685681902482559.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000005,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/7c0b9ec9dac9c3b75204bdebef3cb794_2944685681902482559.png",
+      "attr": 4,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000007,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+      "attr": 6,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000007,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+      "attr": 2,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000007,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+      "attr": 3,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000007,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+      "attr": 5,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000007,
+      "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+      "attr": 4,
+      "level": 5,
+      "labels": [43, 53, 55, 56, 57, 149],
+      "name": "여행자"
+    },
+    {
+      "item_id": 10000006,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/8e27b689ec486c954398c968ee36a626.png",
+      "attr": 5,
+      "level": 4,
+      "labels": [3],
+      "name": "리사"
+    },
+    {
+      "item_id": 10000059,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/25e949cbe4a3391246951b13aa1f0e09.png",
+      "attr": 2,
+      "level": 4,
+      "labels": [7],
+      "name": "시카노인 헤이조"
+    },
+    {
+      "item_id": 10000014,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/59cee661e980d9e4eca196402b582f36.png",
+      "attr": 6,
+      "level": 4,
+      "labels": [1],
+      "name": "바바라"
+    },
+    {
+      "item_id": 10000015,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a394197b81c5722b635e7af359c0a520.png",
+      "attr": 7,
+      "level": 4,
+      "labels": [3],
+      "name": "케이아"
+    },
+    {
+      "item_id": 10000020,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/401fc0f666ec394c60b3ab0d4378196f.png",
+      "attr": 5,
+      "level": 4,
+      "labels": [2],
+      "name": "레이저"
+    },
+    {
+      "item_id": 10000021,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a906ddb1b9b01c9356285d40a89b6eb1.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [1],
+      "name": "엠버"
+    },
+    {
+      "item_id": 10000023,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/34934a78f56e63f56a161f15087d846d.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [5],
+      "name": "향릉"
+    },
+    {
+      "item_id": 10000024,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/61d7bcde77b8a06bb7a618524af9895c.png",
+      "attr": 5,
+      "level": 4,
+      "labels": [6],
+      "name": "북두"
+    },
+    {
+      "item_id": 10000025,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/316a7d9924316f4ec326039c11452d44.png",
+      "attr": 6,
+      "level": 4,
+      "labels": [6],
+      "name": "행추"
+    },
+    {
+      "item_id": 10000027,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/46313c80082fc8134d5d4ac963daef98.png",
+      "attr": 3,
+      "level": 4,
+      "labels": [4],
+      "name": "응광"
+    },
+    {
+      "item_id": 10000031,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a3b70e51669b5ab3012b74129d2a5812.png",
+      "attr": 5,
+      "level": 4,
+      "labels": [3],
+      "name": "피슬"
+    },
+    {
+      "item_id": 10000032,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/72cb0799091868cbe69328e90e62f94b.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [2],
+      "name": "베넷"
+    },
+    {
+      "item_id": 10000034,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/bb4c5deba479d43eae4ac80df322837f.png",
+      "attr": 3,
+      "level": 4,
+      "labels": [2],
+      "name": "노엘"
+    },
+    {
+      "item_id": 10000036,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/db61061c68adefdeeb6b98ecf1cc681a.png",
+      "attr": 7,
+      "level": 4,
+      "labels": [5],
+      "name": "중운"
+    },
+    {
+      "item_id": 10000039,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0d3685dbc5880c0e8dd73ca402201ce0.png",
+      "attr": 7,
+      "level": 4,
+      "labels": [1],
+      "name": "디오나"
+    },
+    {
+      "item_id": 10000043,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/d67563812daeb7833fc0b2193ae60d51.png",
+      "attr": 2,
+      "level": 4,
+      "labels": [1],
+      "name": "설탕"
+    },
+    {
+      "item_id": 10000044,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/13947038bb8df5ad8daa7c552aeb58d8.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [6],
+      "name": "신염"
+    },
+    {
+      "item_id": 10000045,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4eae6d29d8063db603f379ac1cc342e4.png",
+      "attr": 7,
+      "level": 4,
+      "labels": [3],
+      "name": "로자리아"
+    },
+    {
+      "item_id": 10000048,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/9673d854a6760e0019001c46b7f1dd65.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [6],
+      "name": "연비"
+    },
+    {
+      "item_id": 10000050,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/6cf38441c1520fac55389e45c4d148e2.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [7],
+      "name": "토마"
+    },
+    {
+      "item_id": 10000053,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/81740e04f53029f8c7a1ce0a4d480369.png",
+      "attr": 2,
+      "level": 4,
+      "labels": [9],
+      "name": "사유"
+    },
+    {
+      "item_id": 10000055,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/50b3930cd5e4e6fc7889f29d15fc06dd.png",
+      "attr": 3,
+      "level": 4,
+      "labels": [9],
+      "name": "고로"
+    },
+    {
+      "item_id": 10000056,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/99e63faff7c7b6982e64d6ea861a51d5.png",
+      "attr": 5,
+      "level": 4,
+      "labels": [8],
+      "name": "쿠죠 사라"
+    },
+    {
+      "item_id": 10000064,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/98276e51ffe135707af1088c4c2f45e7.png",
+      "attr": 3,
+      "level": 4,
+      "labels": [5],
+      "name": "운근"
+    },
+    {
+      "item_id": 10000065,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/64e4aa06d6d8985b56aee971d7fd7724.png",
+      "attr": 5,
+      "level": 4,
+      "labels": [8],
+      "name": "쿠키 시노부"
+    }
+  ],
+  "attrs": {
+    "1": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/6cea801862718661536f272ac7317b62_6830334169239193840.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/38f20fa41e6a1555229e04a131b64ef1_6050062667349007475.png"
+    },
+    "2": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/10f8e8e2f9ad3cb07d6b036cb392c134_816018747423645179.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/a3734098957e649f81d6f4a9c034b0a7_6775491950337756048.png"
+    },
+    "3": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/a017daea72e284afb216309c687e7b10_8423157753627713870.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/7b791c39136ffda97ac4c2bc4ca1e65a_5716922311061947637.png"
+    },
+    "4": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/c5fc51e60fcf9e8d504622582a4fc098_4321724260434719480.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/6943a2e748b418041ca95fe7bc15637b_9116318144613469481.png"
+    },
+    "5": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/c1af31e349a00c89b6abfd1205dc68e2_5830179621829440358.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/040af4a2e61251007209ac378f85e864_5240215774247162785.png"
+    },
+    "6": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/2ed1a01337ae974bdde47a8e83d2765c_5121888011710266098.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/5f82c3f1d41107680cc86d76366d7b72_2154276200298323098.png"
+    },
+    "7": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/f1320686ba6ce06f7dcb70e7baf04c8d_3940051968560738665.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/d67306fb7c0e09252de5d0b027cc4227_2923792541741391359.png"
+    }
+  }
+}

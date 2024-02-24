@@ -1,0 +1,1426 @@
+{
+  "list": [
+    {
+      "item_id": 14515,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/470c15010bf049ae920630964264d6fc.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [5],
+      "name": "학의 여음"
+    },
+    {
+      "item_id": 12512,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/529b4d5b5b1c36d2496edb923a5d7b8d.png",
+      "attr": 11,
+      "level": 5,
+      "labels": [13],
+      "name": "판정"
+    },
+    {
+      "item_id": 11509,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/664ae222eeb526ed44db690ac022e8d5.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [7],
+      "name": "안개를 가르는 회광"
+    },
+    {
+      "item_id": 15509,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1726be2f2646987117f3b4c5041b4a6b.png",
+      "attr": 12,
+      "level": 5,
+      "labels": [8],
+      "name": "비뢰의 고동"
+    },
+    {
+      "item_id": 13509,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e07c5ed905055fcec879550e6909fe1c.png",
+      "attr": 13,
+      "level": 5,
+      "labels": [215, 209],
+      "name": "예초의 번개"
+    },
+    {
+      "item_id": 12426,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/eb898cf1271105d38de13622714f3444.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [15],
+      "name": "「슈퍼 울트라 패왕 마검」"
+    },
+    {
+      "item_id": 12425,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/93ac086904e178a6aea219ff3dd392bd.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [15],
+      "name": "파도 그림자 대검"
+    },
+    {
+      "item_id": 11510,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7f0a2a5c03432b620877270a442a2452.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [8],
+      "name": "하란 월백의 후츠"
+    },
+    {
+      "item_id": 13511,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f1209e3ddf50921ecddf25f37c5266ac.png",
+      "attr": 13,
+      "level": 5,
+      "labels": [11],
+      "name": "적색 사막의 지팡이"
+    },
+    {
+      "item_id": 11513,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a24d626cf915ded200e094a70bed0718.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [14],
+      "name": "고요히 샘솟는 빛"
+    },
+    {
+      "item_id": 14505,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/24a2c7a9917525d63e69bc222f2ab340.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [4],
+      "name": "벽락의 옥"
+    },
+    {
+      "item_id": 11428,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ff7b651b09d6ffc959968989eb525eb5.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [13],
+      "name": "수선화 십자검"
+    },
+    {
+      "item_id": 14513,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b9f5bf46c1b2450078d816829b8ba9d1.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [15],
+      "name": "현금 흐름 감독"
+    },
+    {
+      "item_id": 14514,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/793e80d24e65e308e59bced34cfbb649.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [14],
+      "name": "영원히 샘솟는 법전"
+    },
+    {
+      "item_id": 14426,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b3a795779d6abd6cdb6f90e75fe8a018.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [2],
+      "name": "끝없는 쪽빛의 노래"
+    },
+    {
+      "item_id": 11427,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/d5d716c4755de42fdb308123b05824b2.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [14],
+      "name": "뱃도랑 장검"
+    },
+    {
+      "item_id": 12427,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/36876dfdfbc6ed3240ed3544110fc271.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [15],
+      "name": "휴대용 체인톱"
+    },
+    {
+      "item_id": 15512,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0764ba153a37451191322e941af72eca.png",
+      "attr": 12,
+      "level": 5,
+      "labels": [13],
+      "name": "최초의 대마술"
+    },
+    {
+      "item_id": 13424,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4fd720edbf5270801b9625005a5b893a.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [15],
+      "name": "협만의 노래"
+    },
+    {
+      "item_id": 12424,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/11d3ec47faafaa17fbdc68ce5e9aa0e4.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [11],
+      "name": "대화봉"
+    },
+    {
+      "item_id": 15424,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0265b0b6cd677236ec09fefec5066910.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [12],
+      "name": "뜨거운 태양의 후손"
+    },
+    {
+      "item_id": 14424,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/45688a73235e600825787d42a5b38d2b.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [4],
+      "name": "제사의 옥"
+    },
+    {
+      "item_id": 11424,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/00e173ef863f0056431d573d3dcc03da.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [1],
+      "name": "늑대 송곳니"
+    },
+    {
+      "item_id": 11426,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b8c98e8a7756b4b1a556cf113fc9acc5.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [13],
+      "name": "잿빛의 강 뱃사공"
+    },
+    {
+      "item_id": 15425,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/aba7f145be4d9dc10527ba057d399747.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [13],
+      "name": "고요한 노래"
+    },
+    {
+      "item_id": 11425,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a3230c02549a466b1480684906ca4561.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [14],
+      "name": "해연의 피날레"
+    },
+    {
+      "item_id": 13425,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b47f925fd85f7c74d5447b419017a973.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [15],
+      "name": "공의의 보상"
+    },
+    {
+      "item_id": 14425,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/52bb49d7d581df8aa51cded3a2613942.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [14],
+      "name": "순수한 달빛 물결"
+    },
+    {
+      "item_id": 12503,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f23ccb5e7a151a7f72364d42f6e702d5.png",
+      "attr": 11,
+      "level": 5,
+      "labels": [1],
+      "name": "송뢰가 울릴 무렵"
+    },
+    {
+      "item_id": 14502,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b928dcaaa74ee3103b567ea9d33512cc.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [3],
+      "name": "사풍 원서"
+    },
+    {
+      "item_id": 14512,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/87414c44101f159279d21d059c010039.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [12],
+      "name": "툴레이툴라의 기억"
+    },
+    {
+      "item_id": 14506,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e30e3184560ca9deea9f46674b54a746.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [7],
+      "name": "불멸의 달빛"
+    },
+    {
+      "item_id": 14509,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/bc9200d6690e3ecf82beb62754407c6a.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [9],
+      "name": "카구라의 진의"
+    },
+    {
+      "item_id": 11503,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4a2695f0d73205ca5ac2b8b65c939b42.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [3],
+      "name": "오래된 자유의 서약"
+    },
+    {
+      "item_id": 11512,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c1e9693828e1dd57c26ba08565a0aa31.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [10],
+      "name": "잎을 가르는 빛"
+    },
+    {
+      "item_id": 15502,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5ca305b3197099c3002bb7198e1f97c.png",
+      "attr": 12,
+      "level": 5,
+      "labels": [3],
+      "name": "아모스의 활"
+    },
+    {
+      "item_id": 14511,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/fe9cf8d5eab044bd4f6c60e47d282c85.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [11],
+      "name": "떠오르는 천일 밤의 꿈"
+    },
+    {
+      "item_id": 11511,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/040554035576ff63f58be7239692000c.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [10],
+      "name": "성현의 열쇠"
+    },
+    {
+      "item_id": 13507,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/2d3f2f0f769ed66eb7d61bafd3cb74e4.png",
+      "attr": 13,
+      "level": 5,
+      "labels": [5],
+      "name": "식재"
+    },
+    {
+      "item_id": 14410,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/80be78bd3e37d90b82fdfd3a85353a57.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [2],
+      "name": "뒷골목의 술과 시"
+    },
+    {
+      "item_id": 12511,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/3f50cc3e40524eadc5b445e1efdb7577.png",
+      "attr": 11,
+      "level": 5,
+      "labels": [12],
+      "name": "갈대 바다의 등대"
+    },
+    {
+      "item_id": 11410,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/14ff33ff028fe1ea027bd8e3b057ffbe.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [1],
+      "name": "뒷골목의 섬광"
+    },
+    {
+      "item_id": 15410,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/75a080441529e783b358d3d6d740d502.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [3],
+      "name": "뒷골목 사냥꾼"
+    },
+    {
+      "item_id": 12418,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7fcf51f250c0b39e605fae3796293916.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [3],
+      "name": "꽃 장식 대검"
+    },
+    {
+      "item_id": 15508,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/9070e3d6dfae61021b489e011a2df244.png",
+      "attr": 12,
+      "level": 5,
+      "labels": [4],
+      "name": "약수"
+    },
+    {
+      "item_id": 13501,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4f5d67ca07be3c5f6420587c6b84ba08.png",
+      "attr": 13,
+      "level": 5,
+      "labels": [6],
+      "name": "호마의 지팡이"
+    },
+    {
+      "item_id": 13505,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c061bbab0d5a9bdf4fa5dfb6a4eb5017.png",
+      "attr": 13,
+      "level": 5,
+      "labels": [4],
+      "name": "화박연"
+    },
+    {
+      "item_id": 12510,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c094d4bcffaf7defd8f5fdc1d4864dae.png",
+      "attr": 11,
+      "level": 5,
+      "labels": [8],
+      "name": "쇄석의 붉은 뿔"
+    },
+    {
+      "item_id": 15507,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e7520655c3dc2e19f2e66dfe48c94b72.png",
+      "attr": 12,
+      "level": 5,
+      "labels": [9],
+      "name": "극지의 별"
+    },
+    {
+      "item_id": 11418,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/3f41c359b2ea2fcc9f1f00ad2cc8a943.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [10],
+      "name": "크시포스의 달빛"
+    },
+    {
+      "item_id": 14416,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/360a6424e656b5b6ad1a824d58b71e43.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [11],
+      "name": "방랑하는 저녁별"
+    },
+    {
+      "item_id": 13419,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/00401a43f93c57351b9d4ac48ac643f3.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [2],
+      "name": "날카로운 바람의 서신"
+    },
+    {
+      "item_id": 12415,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1cbe6237277e379a2a85bcc36304d7e8.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [12],
+      "name": "물빛 마카이라"
+    },
+    {
+      "item_id": 15503,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5c6459f62742c177fb9f734ef6b53c56.png",
+      "attr": 12,
+      "level": 5,
+      "labels": [2],
+      "name": "종말 탄식의 노래"
+    },
+    {
+      "item_id": 15511,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c08c1138b0f1fedb9e0ef33279c64f10.png",
+      "attr": 12,
+      "level": 5,
+      "labels": [12],
+      "name": "사냥꾼의 길"
+    },
+    {
+      "item_id": 15418,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/aecd173ae8532302247943700edd7602.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [12],
+      "name": "메마른 연못"
+    },
+    {
+      "item_id": 15417,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/9e4455ec36f32c20b994b7286a0aa843.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [12],
+      "name": "왕의 측근"
+    },
+    {
+      "item_id": 12417,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ddd4e7965025ffd001d3fd305a9d3f1f.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [10],
+      "name": "숲의 리게일리어"
+    },
+    {
+      "item_id": 14417,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b072d13018477981fba64471e7a595d1.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [11],
+      "name": "충만의 열매"
+    },
+    {
+      "item_id": 13417,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/8b45ac80dca372a71b9eaa967a0c6355.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [11],
+      "name": "달을 꿰뚫는 화살"
+    },
+    {
+      "item_id": 11417,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/fc57f3ee588c11ef4e58c7eb88161f02.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [10],
+      "name": "원목 검"
+    },
+    {
+      "item_id": 11501,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c6b13bde17f5d1b7e6d9b015eb500a9d.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [1],
+      "name": "매의 검"
+    },
+    {
+      "item_id": 11502,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f13b4f85a26f61865c769bf4e7327d0a.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [2],
+      "name": "천공의 검"
+    },
+    {
+      "item_id": 11504,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7a270348c6b907d71cf46799c78febbd.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [4],
+      "name": "참봉의 칼날"
+    },
+    {
+      "item_id": 11505,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2e7e721046dd0187c872bac7e933d7b.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [5],
+      "name": "반암결록"
+    },
+    {
+      "item_id": 11101,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1d0d2d6eafb1845eccea3b986175c9dc.png",
+      "attr": 1,
+      "level": 1,
+      "labels": [1],
+      "name": "무인검"
+    },
+    {
+      "item_id": 11201,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e3ba371d3fad358251796126837e2cdc.png",
+      "attr": 1,
+      "level": 2,
+      "labels": [1],
+      "name": "실버 소드"
+    },
+    {
+      "item_id": 11301,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/d27b44098e9897d8ce919f2ea57a8cf6.png",
+      "attr": 1,
+      "level": 3,
+      "labels": [1],
+      "name": "차가운 칼날"
+    },
+    {
+      "item_id": 11302,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7f8a5f8752218916ce7cc7acc0405dc6.png",
+      "attr": 1,
+      "level": 3,
+      "labels": [2],
+      "name": "여명신검"
+    },
+    {
+      "item_id": 11303,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ff95f7147784a9469495d1c9110b3d70.png",
+      "attr": 1,
+      "level": 3,
+      "labels": [3],
+      "name": "여행자의 검"
+    },
+    {
+      "item_id": 11304,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a037a978483b0bd2de9fa688b78d50c2.png",
+      "attr": 1,
+      "level": 3,
+      "labels": [4],
+      "name": "암철검"
+    },
+    {
+      "item_id": 11305,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/aca57bd173eb3037dc9b6b503667bb21.png",
+      "attr": 1,
+      "level": 3,
+      "labels": [5],
+      "name": "흘호 생선회칼"
+    },
+    {
+      "item_id": 11306,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/cf96a0b78c1963a9c23b9a4d7029df97.png",
+      "attr": 1,
+      "level": 3,
+      "labels": [6],
+      "name": "비천어검"
+    },
+    {
+      "item_id": 11401,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/14d228da0e656ca99afd14f07abdbfc5.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [1],
+      "name": "페보니우스 검"
+    },
+    {
+      "item_id": 11402,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b3ad0b5ee9603e673ca273c217c2aa16.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [2],
+      "name": "피리검"
+    },
+    {
+      "item_id": 11403,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/51db5d4e56e51f79307a2d10114ba1de.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [3],
+      "name": "제례검"
+    },
+    {
+      "item_id": 11404,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/6a474523b961fd3ade377e1c69bff67c.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [1],
+      "name": "왕실의 장검"
+    },
+    {
+      "item_id": 11405,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b76f66eb468b92b7db589ae57f1322ac.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [4],
+      "name": "용의 포효"
+    },
+    {
+      "item_id": 11406,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e93e043e1726691a83ee4927545c825a.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [5],
+      "name": "참암 프로토타입"
+    },
+    {
+      "item_id": 11407,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/8ab51dfa2e58a50693e43d83facf36a3.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [6],
+      "name": "강철 벌침"
+    },
+    {
+      "item_id": 11408,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/2abafb3d1bb6fde845f032d0aa51a046.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [4],
+      "name": "흑암 장검"
+    },
+    {
+      "item_id": 11409,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e27dcc06ca0bdf99eb2a7fa681e064d9.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [2],
+      "name": "칠흑검"
+    },
+    {
+      "item_id": 11412,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/d21eb8ab41176dcd2d571d157c86667e.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [2],
+      "name": "강림의 검"
+    },
+    {
+      "item_id": 11413,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/46d7917e85bafe909a579dc9c6891b7f.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [3],
+      "name": "부식의 검"
+    },
+    {
+      "item_id": 11414,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b5e9197fb102aef16e76446d7ad81987.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [7],
+      "name": "아메노마 카게우치가타나"
+    },
+    {
+      "item_id": 11415,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a79b2b330f806a2a29cb5a36f1d8abc8.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [1],
+      "name": "진사의 방추"
+    },
+    {
+      "item_id": 11416,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/2571de3a2daaa3824110c1630180fa74.png",
+      "attr": 1,
+      "level": 4,
+      "labels": [9],
+      "name": "카고츠루베 잇신"
+    },
+    {
+      "item_id": 12501,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/cae299e70655edbc39da99c02241d805.png",
+      "attr": 11,
+      "level": 5,
+      "labels": [2],
+      "name": "천공의 긍지"
+    },
+    {
+      "item_id": 12502,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c91da694e2eddb88f8cde2b608da3737.png",
+      "attr": 11,
+      "level": 5,
+      "labels": [3],
+      "name": "늑대의 말로"
+    },
+    {
+      "item_id": 12504,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e2f109784d4b04935eba189ca82d6743.png",
+      "attr": 11,
+      "level": 5,
+      "labels": [5],
+      "name": "무공의 검"
+    },
+    {
+      "item_id": 12101,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/55f937760d1f4e496cd8f75731aa24c6.png",
+      "attr": 11,
+      "level": 1,
+      "labels": [2],
+      "name": "훈련용 대검"
+    },
+    {
+      "item_id": 12201,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/3cc99572ab1f9f30c979782122367a07.png",
+      "attr": 11,
+      "level": 2,
+      "labels": [2],
+      "name": "용병 중검"
+    },
+    {
+      "item_id": 12301,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0b1709997a228938c40e98cef5b7c573.png",
+      "attr": 11,
+      "level": 3,
+      "labels": [1],
+      "name": "강철의 그림자"
+    },
+    {
+      "item_id": 12302,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a3ae8d4fa99110e1bb20c089c651f528.png",
+      "attr": 11,
+      "level": 3,
+      "labels": [2],
+      "name": "드래곤 블러드 소드"
+    },
+    {
+      "item_id": 12303,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/605ee3d6e73e33a17c3af322d16f407f.png",
+      "attr": 11,
+      "level": 3,
+      "labels": [3],
+      "name": "백철 대검"
+    },
+    {
+      "item_id": 12305,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7bdf82457a9cb2e41579ab482fdb2dd7.png",
+      "attr": 11,
+      "level": 3,
+      "labels": [5],
+      "name": "훌륭한 대화수단"
+    },
+    {
+      "item_id": 12306,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c98fe67f67fccf218806f1758e471d5b.png",
+      "attr": 11,
+      "level": 3,
+      "labels": [6],
+      "name": "비천대어검"
+    },
+    {
+      "item_id": 12401,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/03c457e2e3e8a47c59561c0b913d56f3.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [3],
+      "name": "페보니우스 대검"
+    },
+    {
+      "item_id": 12402,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/eb624643b8454db61f214a6680fec842.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [1],
+      "name": "시간의 검"
+    },
+    {
+      "item_id": 12403,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/99940fcdeb368f028eb31b3a4f62901a.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [2],
+      "name": "제례 대검"
+    },
+    {
+      "item_id": 12404,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4fc8a357d0e202053d30515c14669dff.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [3],
+      "name": "왕실의 대검"
+    },
+    {
+      "item_id": 12405,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ab81280edf1fbc7cc076f983757c6cf5.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [5],
+      "name": "빗물 베기"
+    },
+    {
+      "item_id": 12406,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/6f61fcde1fd9e59c6b22381b38b99408.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [6],
+      "name": "고화 프로토타입"
+    },
+    {
+      "item_id": 12407,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b21ac73476e0e2d1c1d18876fd37f2e3.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [4],
+      "name": "백영검"
+    },
+    {
+      "item_id": 12408,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/03756d707e7ed26da125effce5193faf.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [5],
+      "name": "흑암참도"
+    },
+    {
+      "item_id": 12409,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/797418542c170ff4cb006a3bb03a5b19.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [6],
+      "name": "이무기 검"
+    },
+    {
+      "item_id": 12410,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f68986b0d9ec17ec48f3cee1bb9ef57a.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [4],
+      "name": "천암고검"
+    },
+    {
+      "item_id": 12411,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f452822209ddbedfe95cf427cc0061ff.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [1],
+      "name": "설장의 성은"
+    },
+    {
+      "item_id": 12412,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/999f00539426b6fb57b8806dd5390f60.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [49, 169, 59],
+      "name": "진주를 문 해황"
+    },
+    {
+      "item_id": 12414,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1d1b2cedde22aeff10827faf4c20838b.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [8],
+      "name": "카츠라기를 벤 나가마사"
+    },
+    {
+      "item_id": 12416,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7b1da8ffe68d4cc47617131d1db6cdb0.png",
+      "attr": 11,
+      "level": 4,
+      "labels": [7],
+      "name": "아쿠오마루"
+    },
+    {
+      "item_id": 13502,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1b03cc874322ae49467a29b30b71a978.png",
+      "attr": 13,
+      "level": 5,
+      "labels": [3],
+      "name": "천공의 마루"
+    },
+    {
+      "item_id": 13504,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e209bba9e8e71eab460db63509d20aa9.png",
+      "attr": 13,
+      "level": 5,
+      "labels": [6],
+      "name": "관홍의 창"
+    },
+    {
+      "item_id": 13101,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e92cedd8df79f193493085bfe4b0f06f.png",
+      "attr": 13,
+      "level": 1,
+      "labels": [3],
+      "name": "초보자의 장창"
+    },
+    {
+      "item_id": 13201,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/3c916c2d866d0bf59aecfd4377d1b2b7.png",
+      "attr": 13,
+      "level": 2,
+      "labels": [3],
+      "name": "철촉창"
+    },
+    {
+      "item_id": 13301,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/254072d51197e2514e49cfdb36c3d376.png",
+      "attr": 13,
+      "level": 3,
+      "labels": [4],
+      "name": "백술창"
+    },
+    {
+      "item_id": 13302,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/fd93a4ea4fbcbbe955e4ebaf537cc391.png",
+      "attr": 13,
+      "level": 3,
+      "labels": [5],
+      "name": "미늘창"
+    },
+    {
+      "item_id": 13303,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4a07247ab16957f4d3e570f3d5b41968.png",
+      "attr": 13,
+      "level": 3,
+      "labels": [6],
+      "name": "흑술창"
+    },
+    {
+      "item_id": 13401,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c676e1edd69a12c923223fd59c7698eb.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [5],
+      "name": "용학살창"
+    },
+    {
+      "item_id": 13402,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/eb073d73b3926505481e77a8e5f24b56.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [6],
+      "name": "별의 낫 프로토타입"
+    },
+    {
+      "item_id": 13403,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/420a7bf24a098a7f4bc73b771a417d8f.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [4],
+      "name": "유월창"
+    },
+    {
+      "item_id": 13404,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ae57db3ec9cf9e3e93a0ef31bd4b61c4.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [5],
+      "name": "흑암창"
+    },
+    {
+      "item_id": 13405,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4e10777a821a49ebb57d65c6bd33aef4.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [2],
+      "name": "결투의 창"
+    },
+    {
+      "item_id": 13406,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/637b07a8b1828700b85742bffa8c5e97.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [6],
+      "name": "천암장창"
+    },
+    {
+      "item_id": 13407,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/11e7fe7e312201c890f41b367011d589.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [3],
+      "name": "페보니우스 장창"
+    },
+    {
+      "item_id": 13408,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a27a7c66f81d5b095851f3555326b47b.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [5],
+      "name": "왕실의 장창"
+    },
+    {
+      "item_id": 13409,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/47943a66505925272ab2ac0e2335d33c.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [2],
+      "name": "용의 척추"
+    },
+    {
+      "item_id": 13414,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ebe98899e86fb98e7422bcc91f27dadd.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [9],
+      "name": "키타인 십자창"
+    },
+    {
+      "item_id": 13415,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7e18dbc4af07ef78f2e09fb8a148159f.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [9],
+      "name": "「어획」"
+    },
+    {
+      "item_id": 13416,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0169a84282e03dd88549c726dc0638cb.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [9],
+      "name": "파도 베는 지느러미"
+    },
+    {
+      "item_id": 14501,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad86559c281719c6b5011d7aab8ec4c5.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [2],
+      "name": "천공의 두루마리"
+    },
+    {
+      "item_id": 14504,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/2b6a5a0eb3e2a17b6e42427d50e8587a.png",
+      "attr": 10,
+      "level": 5,
+      "labels": [6],
+      "name": "속세의 자물쇠"
+    },
+    {
+      "item_id": 14101,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/24ac1380cdfa52dbbb0132a0780b021c.png",
+      "attr": 10,
+      "level": 1,
+      "labels": [1],
+      "name": "학도의 노트"
+    },
+    {
+      "item_id": 14201,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1a03ff2a9704fbe46401d2b44fc408b4.png",
+      "attr": 10,
+      "level": 2,
+      "labels": [1],
+      "name": "포켓 주술서"
+    },
+    {
+      "item_id": 14301,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a691e64b2ff542e93d44b094cba77c13.png",
+      "attr": 10,
+      "level": 3,
+      "labels": [1],
+      "name": "마도 서론"
+    },
+    {
+      "item_id": 14302,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/973fb34f487527d996e66b70656b18b7.png",
+      "attr": 10,
+      "level": 3,
+      "labels": [2],
+      "name": "드래곤 슬레이어 영웅담"
+    },
+    {
+      "item_id": 14303,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c42cefc9e90675f8967d027bcee4ce58.png",
+      "attr": 10,
+      "level": 3,
+      "labels": [3],
+      "name": "이세계 여행기"
+    },
+    {
+      "item_id": 14304,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/bc2bcbc0ae23265e117a0983186449f4.png",
+      "attr": 10,
+      "level": 3,
+      "labels": [4],
+      "name": "비취 오브"
+    },
+    {
+      "item_id": 14305,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/487056ffab60e0863f64729b9ce02c7b.png",
+      "attr": 10,
+      "level": 3,
+      "labels": [5],
+      "name": "1급 보옥"
+    },
+    {
+      "item_id": 14401,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0cf88ebf54a38da0152ad51bc96b1c90.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [1],
+      "name": "페보니우스 비전"
+    },
+    {
+      "item_id": 14402,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/9925143ea58294ea8d17b3510cb54609.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [2],
+      "name": "음유시인의 악장"
+    },
+    {
+      "item_id": 14403,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5df822fa2ad9a7962c46fc1a9497ab8d.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [3],
+      "name": "제례의 악장"
+    },
+    {
+      "item_id": 14404,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/745563622ae56401ba561c5f7d8ac0ff.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [1],
+      "name": "왕실의 비전록"
+    },
+    {
+      "item_id": 14405,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1cad9727e2fc1b8be8a4326721be8eda.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [4],
+      "name": "일월의 정수"
+    },
+    {
+      "item_id": 14406,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/23f8d851c770fd3f1f9a642205a6fd84.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [5],
+      "name": "황금 호박 프로토타입"
+    },
+    {
+      "item_id": 14407,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/28746e53826530d04da58f261c2f7586.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [6],
+      "name": "만국 항해용해도"
+    },
+    {
+      "item_id": 14408,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c458b656ade35f3f0bdaff2539435be5.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [4],
+      "name": "흑암 홍옥"
+    },
+    {
+      "item_id": 14409,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/00e2257a9f39d1d5287a89aa2f056749.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [5],
+      "name": "소심"
+    },
+    {
+      "item_id": 14412,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/9e3faf76708b82d98b7e5d009db87f37.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [3],
+      "name": "인동의 열매"
+    },
+    {
+      "item_id": 14413,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/7d58d13d6265cfbcc9145a75b2a2010d.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [2],
+      "name": "도도코 이야기집"
+    },
+    {
+      "item_id": 14414,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c8fe8555c9257b0c4de0098d5089a988.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [7],
+      "name": "하쿠신의 고리"
+    },
+    {
+      "item_id": 14415,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/268db7ea044d384781905bf67b74fcd4.png",
+      "attr": 10,
+      "level": 4,
+      "labels": [7],
+      "name": "맹세의 눈동자"
+    },
+    {
+      "item_id": 15501,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/4cbf92ab5187baa071abb98f1d5ec970.png",
+      "attr": 12,
+      "level": 5,
+      "labels": [2],
+      "name": "천공의 날개"
+    },
+    {
+      "item_id": 15101,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f9874322375769e45a87eab3d053935b.png",
+      "attr": 12,
+      "level": 1,
+      "labels": [2],
+      "name": "사냥활"
+    },
+    {
+      "item_id": 15201,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e1103743f9c92c59351b488c3b550213.png",
+      "attr": 12,
+      "level": 2,
+      "labels": [2],
+      "name": "노련의 사냥활"
+    },
+    {
+      "item_id": 15301,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/6510b531a5334d9a897bb346733c35f6.png",
+      "attr": 12,
+      "level": 3,
+      "labels": [1],
+      "name": "까마귀깃 활"
+    },
+    {
+      "item_id": 15302,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/3da2a9450e64699b0305b445b075556d.png",
+      "attr": 12,
+      "level": 3,
+      "labels": [2],
+      "name": "신궁의 서약"
+    },
+    {
+      "item_id": 15303,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/67d0c6d55c12093847f3a97002b0e745.png",
+      "attr": 12,
+      "level": 3,
+      "labels": [3],
+      "name": "곡궁"
+    },
+    {
+      "item_id": 15304,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/efc5794a113869f52cf75b4d8218882a.png",
+      "attr": 12,
+      "level": 3,
+      "labels": [4],
+      "name": "탄궁"
+    },
+    {
+      "item_id": 15305,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/b62e7dc5172b7627dd17626433836ce0.png",
+      "attr": 12,
+      "level": 3,
+      "labels": [5],
+      "name": "전령"
+    },
+    {
+      "item_id": 15401,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/f49fb2ea645332a08addc766ebd04d04.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [3],
+      "name": "페보니우스 활"
+    },
+    {
+      "item_id": 15402,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a423340028b6523dbf0dc2998feaf312.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [1],
+      "name": "절현"
+    },
+    {
+      "item_id": 15403,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c0d5d0f2d411f894cb06a8722567fa3b.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [2],
+      "name": "제례활"
+    },
+    {
+      "item_id": 15404,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/89ff34b2080ff5238dd31e0840e3d4ff.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [3],
+      "name": "왕실의 장궁"
+    },
+    {
+      "item_id": 15405,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/719a12af7d0d20b6b9eb55f11e6ae012.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [4],
+      "name": "녹슨 활"
+    },
+    {
+      "item_id": 15406,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/354766906fc98e1980f96c69da9a553f.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [5],
+      "name": "담월 프로토타입"
+    },
+    {
+      "item_id": 15407,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/5e78445fdd420ede49ba7afa65e30ccb.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [6],
+      "name": "강철궁"
+    },
+    {
+      "item_id": 15408,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/090e57efeaf6c5f6a0584a173cb9786d.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [4],
+      "name": "흑암 배틀 보우"
+    },
+    {
+      "item_id": 15409,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/749ef37abe1a2ee0dd92b67a76240642.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [1],
+      "name": "청록의 사냥활"
+    },
+    {
+      "item_id": 15411,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/9aaea689832f1f8b15cac2bc87db2980.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [25, 57],
+      "name": "노을"
+    },
+    {
+      "item_id": 15412,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e78175767825fd7efb011d6ebed9a891.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [1],
+      "name": "유야의 왈츠"
+    },
+    {
+      "item_id": 15413,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/97cb3d23bd4cf721e9b479266115dc51.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [3],
+      "name": "바람 꽃의 노래"
+    },
+    {
+      "item_id": 15414,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1bc04c21e64142835f83e7fbc8283197.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [8],
+      "name": "파마궁"
+    },
+    {
+      "item_id": 15415,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/1de21026704b7ab4d7bfcf5fa9d2afa2.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [8],
+      "name": "포식자"
+    },
+    {
+      "item_id": 15416,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/44e021439af24d3eac0dfbaa20e35177.png",
+      "attr": 12,
+      "level": 4,
+      "labels": [8],
+      "name": "모운의 달"
+    }
+  ],
+  "attrs": {
+    "1": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/aa47c2e1bc720b7a7cfee9954e125647_3308249133964947502.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/aab35891b9f277e0813435fe5c47c045_5294382189232539333.png"
+    },
+    "10": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/7ff77855cb938fb4329359e138ef8b15_8729755546675451225.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/904110eab7b3d84fc82e309b8fb83bf4_2027139236237253077.png"
+    },
+    "11": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/f77c6a593ace23d0c35fc06b95160a52_4316434963220491731.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/4e39c82d68b4b9425c2867cf8de47ae7_2220053092842565336.png"
+    },
+    "12": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/015f3c73d540753eee0596b1cb6fc3d5_3323630624629461465.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/bd9ca38d35f16007ac4440ebcdf6c837_991052186790733289.png"
+    },
+    "13": {
+      "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/6a39ece780abd43e78ac39536832d48b_8209227957927483768.png",
+      "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/38dc9ea0f350499ced53963af31315fc_1560169253091504516.png"
+    }
+  }
+}
