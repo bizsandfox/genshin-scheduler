@@ -1,6 +1,14 @@
 {
   "list": [
     {
+      "item_id": 11514,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7ea0f/d4211a24d1c959f087da6046c0d19548.png",
+      "attr": 1,
+      "level": 5,
+      "labels": [7],
+      "name": "우라쿠의 미스기리"
+    },
+    {
       "item_id": 14515,
       "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/470c15010bf049ae920630964264d6fc.png",
       "attr": 10,

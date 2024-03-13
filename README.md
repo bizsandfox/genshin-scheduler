@@ -44,3 +44,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Data
+
+https://sg-public-api-static.hoyolab.com/common/map_user/ys_obc/v1/map/game_item?map_id=2&app_sn=ys_obc&lang=ko-kr

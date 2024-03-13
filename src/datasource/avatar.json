@@ -1,6 +1,14 @@
 {
   "list": [
     {
+      "item_id": 10000094,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7ea0f/0ada701a8bd7d22e3ecef2bf1011faba.png",
+      "attr": 3,
+      "level": 5,
+      "labels": [9],
+      "name": "치오리"
+    },
+    {
       "item_id": 10000093,
       "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0da15191b6ab4ed59a03e950e88f784c.png",
       "attr": 2,
