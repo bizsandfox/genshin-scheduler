@@ -1,6 +1,14 @@
 {
   "list": [
     {
+      "item_id": 13426,
+      "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ba66ddd3288749d45c3e79e62d41b1f7.png",
+      "attr": 13,
+      "level": 4,
+      "labels": [10],
+      "name": "위대한 사막 현자의 대답"
+    },
+    {
       "item_id": 11514,
       "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7ea0f/d4211a24d1c959f087da6046c0d19548.png",
       "attr": 1,
@@ -45,7 +53,7 @@
       "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/e07c5ed905055fcec879550e6909fe1c.png",
       "attr": 13,
       "level": 5,
-      "labels": [215, 209],
+      "labels": [9],
       "name": "예초의 번개"
     },
     {
